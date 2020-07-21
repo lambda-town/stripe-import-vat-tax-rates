@@ -1,0 +1,16 @@
+{
+  "name": "stripe-vat-tax-rates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.24",
+    "axios": "^0.19.2",
+    "stripe": "^8.77.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
